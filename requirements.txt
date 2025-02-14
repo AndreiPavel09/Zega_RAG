@@ -2,6 +2,8 @@ docx2txt==0.8
 langchain==0.3.18
 langchain_huggingface==0.1.2
 llama_index==0.12.17
+llama-index-llms-ollama==0.5.2
+llama-index-embeddings-huggingface==0.5.1
 python_docx==1.1.2
 streamlit==1.42.0
 torch==2.6.0
